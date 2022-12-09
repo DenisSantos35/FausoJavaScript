@@ -1,2 +1,0 @@
-# FausoJavaScript
- Estudos fausto
